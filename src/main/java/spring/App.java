@@ -1,4 +1,4 @@
-package com.chinaliyq.spring.bean.com.chinaliyq.spring;
+package spring;
 
 import com.chinaliyq.spring.bean.Person;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
